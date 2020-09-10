@@ -1,0 +1,258 @@
+Services
+
+	<div class="services">
+		<div class="container">
+			<div class="row">
+				<div class="col text-center">
+					<div class="section_title">Our Services</div>
+					<div class="section_subtitle">to choose from</div>
+				</div>
+			</div>
+			<div class="row icon_boxes_row">
+				
+				<!-- Icon Box -->
+				<div class="col-xl-4 col-lg-6">
+					<div class="icon_box">
+						<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+							<div class="icon_box_icon"><img src="images/icon_1.svg" alt=""></div>
+							<div class="icon_box_title">Cardiology</div>
+						</div>
+						<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+					</div>
+				</div>
+
+				<!-- Icon Box -->
+				<div class="col-xl-4 col-lg-6">
+					<div class="icon_box">
+						<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+							<div class="icon_box_icon"><img src="images/icon_2.svg" alt=""></div>
+							<div class="icon_box_title">Gastroenterology</div>
+						</div>
+						<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+					</div>
+				</div>
+
+				<!-- Icon Box -->
+				<div class="col-xl-4 col-lg-6">
+					<div class="icon_box">
+						<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+							<div class="icon_box_icon"><img src="images/icon_3.svg" alt=""></div>
+							<div class="icon_box_title">Medical Lab</div>
+						</div>
+						<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+					</div>
+				</div>
+
+				<!-- Icon Box -->
+				<div class="col-xl-4 col-lg-6">
+					<div class="icon_box">
+						<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+							<div class="icon_box_icon"><img src="images/icon_4.svg" alt=""></div>
+							<div class="icon_box_title">Dental Care</div>
+						</div>
+						<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+					</div>
+				</div>
+
+				<!-- Icon Box -->
+				<div class="col-xl-4 col-lg-6">
+					<div class="icon_box">
+						<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+							<div class="icon_box_icon"><img src="images/icon_5.svg" alt=""></div>
+							<div class="icon_box_title">Surgery</div>
+						</div>
+						<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+					</div>
+				</div>
+
+				<!-- Icon Box -->
+				<div class="col-xl-4 col-lg-6">
+					<div class="icon_box">
+						<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+							<div class="icon_box_icon"><img src="images/icon_6.svg" alt=""></div>
+							<div class="icon_box_title">Neurology</div>
+						</div>
+						<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+					</div>
+				</div>
+
+			</div>
+			<div class="row">
+				<div class="col">
+					<div class="button services_button ml-auto mr-auto"><a href="#"><span>read more</span><span>read more</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+    	<!-- Latest News -->
+				<div class="col-lg-5">
+					<div class="news">
+						<div class="news_title">Latest News</div>
+						<div class="news_subtitle">read all about it</div>
+						<div class="news_container">
+
+							<!-- Latest News Post -->
+							<div class="latest d-flex flex-row align-items-start justify-content-start">
+								<div><div class="latest_image"><img src="images/latest_1.jpg" alt=""></div></div>
+								<div class="latest_content">
+									<div class="latest_title"><a href="news.html">A simple blog post</a></div>
+									<div class="latest_info">
+										<ul class="d-flex flex-row align-items-start justify-content-start">
+											<li><a href="#">by Jane Smith</a></li>
+											<li><a href="#">April 25, 2018</a></li>
+										</ul>
+									</div>
+									<div class="latest_comments"><a href="#">2 Comments</a></div>
+								</div>
+							</div>
+
+							<!-- Latest News Post -->
+							<div class="latest d-flex flex-row align-items-start justify-content-start">
+								<div><div class="latest_image"><img src="images/latest_2.jpg" alt=""></div></div>
+								<div class="latest_content">
+									<div class="latest_title"><a href="news.html">A new way to see things in medicine</a></div>
+									<div class="latest_info">
+										<ul class="d-flex flex-row align-items-start justify-content-start">
+											<li><a href="#">by Jane Smith</a></li>
+											<li><a href="#">April 25, 2018</a></li>
+										</ul>
+									</div>
+									<div class="latest_comments"><a href="#">2 Comments</a></div>
+								</div>
+							</div>
+
+							<!-- Latest News Post -->
+							<div class="latest d-flex flex-row align-items-start justify-content-start">
+								<div><div class="latest_image"><img src="images/latest_3.jpg" alt=""></div></div>
+								<div class="latest_content">
+									<div class="latest_title"><a href="news.html">Why is Pharma industry so big?</a></div>
+									<div class="latest_info">
+										<ul class="d-flex flex-row align-items-start justify-content-start">
+											<li><a href="#">by Jane Smith</a></li>
+											<li><a href="#">April 25, 2018</a></li>
+										</ul>
+									</div>
+									<div class="latest_comments"><a href="#">2 Comments</a></div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+
+
+    
+	<!-- FAQ & News -->
+
+	<div class="stuff">
+		<div class="container">
+			<div class="row">
+
+				<!-- FAQ -->
+				<div class="col-lg-7">
+					<div class="faq">
+					
+						<div class="elements_accordions">
+							<div class="accordions">
+
+								<div class="accordion_container">
+									<div class="accordion d-flex flex-row align-items-center active"><div>Maecenas fermentum tortor id fringilla molestie.</div></div>
+									<div class="accordion_panel">
+										<div>
+											<p>Lorem ipsum dolor sit amet, lorem maxkklimhabyab  vxgtabghain consectetur adipiscing elit. Donec malesuada lorem maximus mauris. Lorem ipsum dolor sit amet, lorem maximus consectetur adipiscing.</p>
+										</div>
+									</div>
+								</div>
+
+								<div class="accordion_container">
+									<div class="accordion d-flex flex-row align-items-center"><div>Duis quis lacinia elit. Etiam varius mi eget lacus ultricies elementum</div></div>
+									<div class="accordion_panel">
+										<div>
+											<p>Lorem ipsum dolor lorem epson  sit amet, lorem maximus consectetur adipiscing elit. Donec malesuada lorem maximus mauris. Lorem ipsum dolor sit amet, lorem maximus consectetur adipiscing.</p>
+										</div>
+									</div>
+								</div>
+                                <!-- // -->
+								<div class="accordion_container">
+									<div class="accordion d-flex flex-row align-items-center"><div>Maecenas fermentum tortor id fringilla molestie.</div></div>
+									<div class="accordion_panel">
+										<div>
+											<p>Lorem ipsum dolor sit amet, lorem maximus consectetur adipiscing elit. Donec malesuada lorem maximus mauris. Lorem ipsum dolor sit amet, lorem maximus consectetur adipiscing.</p>
+										</div>
+									</div>
+								</div>
+                                 <!-- // -->
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Latest News -->
+				<div class="col-lg-5">
+					<div class="news">
+						<div class="news_title">Latest News</div>
+						<div class="news_subtitle">read all about it</div>
+						<div class="news_container">
+
+							<!-- Latest News Post -->
+							<div class="latest d-flex flex-row align-items-start justify-content-start">
+								<div><div class="latest_image"><img src="images/latest_1.jpg" alt=""></div></div>
+								<div class="latest_content">
+									<div class="latest_title"><a href="news.html">A simple blog post</a></div>
+									<div class="latest_info">
+										<ul class="d-flex flex-row align-items-start justify-content-start">
+											<li><a href="#">by Jane Smith</a></li>
+											<li><a href="#">April 25, 2018</a></li>
+										</ul>
+									</div>
+									<div class="latest_comments"><a href="#">2 Comments</a></div>
+								</div>
+							</div>
+
+							<!-- Latest News Post -->
+							<div class="latest d-flex flex-row align-items-start justify-content-start">
+								<div><div class="latest_image"><img src="images/latest_2.jpg" alt=""></div></div>
+								<div class="latest_content">
+									<div class="latest_title"><a href="news.html">A new way to see things in medicine</a></div>
+									<div class="latest_info">
+										<ul class="d-flex flex-row align-items-start justify-content-start">
+											<li><a href="#">by Jane Smith</a></li>
+											<li><a href="#">April 25, 2018</a></li>
+										</ul>
+									</div>
+									<div class="latest_comments"><a href="#">2 Comments</a></div>
+								</div>
+							</div>
+
+							<!-- Latest News Post -->
+							<div class="latest d-flex flex-row align-items-start justify-content-start">
+								<div><div class="latest_image"><img src="images/latest_3.jpg" alt=""></div></div>
+								<div class="latest_content">
+									<div class="latest_title"><a href="news.html">Why is Pharma industry so big?</a></div>
+									<div class="latest_info">
+										<ul class="d-flex flex-row align-items-start justify-content-start">
+											<li><a href="#">by Jane Smith</a></li>
+											<li><a href="#">April 25, 2018</a></li>
+										</ul>
+									</div>
+									<div class="latest_comments"><a href="#">2 Comments</a></div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
